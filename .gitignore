@@ -2,8 +2,12 @@
 
 src/Code/.ipynb_checkpoints
 
-src/Images/data_set
-src/Images/grayscale
+src/Images/data_set/Melanoma/*
+src/Images/data_set/NotMelanoma/*
+
+src/Images/grayscale/Melanoma/*
+src/Images/grayscale/NotMelanoma/*
+
 src/Images/.ipynb_checkpoints
 
 src/Images/AUG_0_53.jpeg
