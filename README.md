@@ -22,4 +22,4 @@ Caso em algum momento, durante a edição do arquivo, acontecer erro de importa�
 
 
 ### Materiais consultados
-- O banco de imagens utilizado para trabalho está no link [https://www.kaggle.com/wanderdust/melanoma-detection]
+- O banco de imagens utilizado para trabalho está no link https://www.kaggle.com/wanderdust/melanoma-detection
