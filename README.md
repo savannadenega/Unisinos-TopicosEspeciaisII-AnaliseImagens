@@ -16,7 +16,7 @@ Trabalho de análise de imagens para detecção de melanomas com a utilização 
 ``jupyter notebook``
 
 - O software é aberto para utilização no navegador padrão;
-- O arquivo principal do projeto é `scr/PLN_LeituraTextual`, onde contém os processamentos e testes realizados;
+- O arquivo principal do projeto é `scr/analise-imagens.ipynb`, onde contém os processamentos e testes realizados;
 
 Caso em algum momento, durante a edição do arquivo, acontecer erro de importação de bibliotecas (após já ter feito o download de acordo com o item `Rescursos utilizados`), reinicie seu computador.
 
