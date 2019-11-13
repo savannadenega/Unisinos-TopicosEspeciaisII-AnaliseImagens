@@ -6,20 +6,21 @@ Trabalho de análise de imagens para detecção de melanomas com a utilização 
 - [anaconda](https://www.anaconda.com/distribution/)
 - [python3](https://www.python.org/downloads/)
 - [jupyter](https://jupyter.org/install)
+- tensorflow `pip install tersorflow`
+- numpy `pip install numpy`
 
 
 ### Como executar
-- Necessária prévia instalação dos recursos acima (para Windows basta o uso da ferramenta Anaconda com Jupyter);
+
+- Pode-se executar diretamente no Colab, acessando por esse (link)[https://colab.research.google.com/github/gabcastro/Unisinos-TopicosEspeciaisII-AnaliseImagens/blob/master/src/Melanoma_Detection.ipynb]
+
+- Ou caso deseje, pode-se executar com a ferramenta Jupyter, então é necessária prévia instalação dos recursos acima (para Windows basta o uso da ferramenta Anaconda com Jupyter);
 - Acessar a pasta via linha de comando, onde foi realizada o download do projeto atual;
 - Executar a ferramenta `jupyter` via linha de comando:
 
 ``jupyter notebook``
 
 - O software é aberto para utilização no navegador padrão;
-- O arquivo principal do projeto é `scr/analise-imagens.ipynb`, onde contém os processamentos e testes realizados;
+- O arquivo principal do projeto é `scr/Melanoma_Detection.ipynb`, onde contém os processamentos e testes realizados;
 
 Caso em algum momento, durante a edição do arquivo, acontecer erro de importação de bibliotecas (após já ter feito o download de acordo com o item `Rescursos utilizados`), reinicie seu computador.
-
-
-### Materiais consultados
-- O banco de imagens utilizado para trabalho está no link https://www.kaggle.com/wanderdust/melanoma-detection
