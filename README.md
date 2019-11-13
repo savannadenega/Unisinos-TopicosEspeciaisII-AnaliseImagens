@@ -12,7 +12,7 @@ Trabalho de análise de imagens para detecção de melanomas com a utilização 
 
 ### Como executar
 
-- Pode-se executar diretamente no Colab, acessando por esse [link](https://colab.research.google.com/github/gabcastro/Unisinos-TopicosEspeciaisII-AnaliseImagens/blob/master/src/Melanoma_Detection.ipynb)
+- Pode-se executar diretamente no Colab, acessando por esse [link](https://colab.research.google.com/github/gabcastro/Unisinos-TopicosEspeciaisII-AnaliseImagens/blob/master/src/Melanoma_Detection.ipynb).
 
 - Ou caso deseje, pode-se executar com a ferramenta Jupyter, então é necessária prévia instalação dos recursos acima (para Windows basta o uso da ferramenta Anaconda com Jupyter);
 - Acessar a pasta via linha de comando, onde foi realizada o download do projeto atual;
