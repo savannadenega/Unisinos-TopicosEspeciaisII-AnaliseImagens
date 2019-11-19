@@ -1,15 +1,12 @@
-.DS_Store
-
 .ipynb_checkpoints
 
-src/Code/.ipynb_checkpoints
+src/.ipynb_checkpoints
 
-src/Images/data_set/Melanoma/*
-src/Images/data_set/NotMelanoma/*
+Images/data_set/Melanoma/*
+Images/data_set/NotMelanoma/*
 
-src/Images/grayscale/Melanoma/*
-src/Images/grayscale/NotMelanoma/*
+Images/grayscale/Melanoma/*
+Images/grayscale/NotMelanoma/*
 
-src/Images/.ipynb_checkpoints
-
-src/Images/AUG_0_53.jpeg
+Images/AUG_0_53.jpeg
+Images/.ipynb_checkpoints
