@@ -1,6 +1,10 @@
 .ipynb_checkpoints
 
 src/.ipynb_checkpoints
+src/__MACOSX
+src/x1.npy
+src/x2.npy
+src/y.npy
 
 Images/data_set/Melanoma/*
 Images/data_set/NotMelanoma/*
